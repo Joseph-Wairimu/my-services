@@ -88,5 +88,9 @@ position: relative;
 .contacts{
 
     height: 400px;
-    background-color: blue
+    background-color: blue;
+
+}
+#us{
+    color: aliceblue;
 }
