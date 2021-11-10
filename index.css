@@ -85,3 +85,8 @@ position: relative;
     display: flex;
     justify-content: center;
 }
+.contacts{
+
+    height: 400px;
+    background-color: blue
+}
