@@ -11,6 +11,7 @@ background-color: white;
 margin: 15px;
 display: flex;
 position: relative;
+top: -40px;
 
 
 }
@@ -19,13 +20,20 @@ position: relative;
     display: flex;
     margin: 15px;
 
+
 }
 .one{
     height: 50px;
     
 }
 #button{
+    color: aliceblue;
+    background-color: blue;
+    top: -40px;
     height: 20px;
+    margin: 15px;
+display: flex;
+position: relative;
 }
 .two{
     background-image: url("images/bg.png");
@@ -73,10 +81,10 @@ position: relative;
     height: 400px;
 }
 .edit{
-    height: 165px;
+    height: 170px;
 }
 .air{
-    box-shadow: 5px 10px 1px 1px solid brown;
+    border: 1px solid rgb(187, 168, 168);
     border-radius: 25px;
     margin: 20px;
     
