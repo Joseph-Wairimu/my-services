@@ -27,3 +27,22 @@ position: relative;
 #button{
     height: 20px;
 }
+.two{
+    background-image: url("images/bg.png");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.back{
+    text-align: center;
+
+    padding: 70px;
+}
+.services{
+    background-color: blue;
+    color: aliceblue;
+}
+.touch{
+    color: aliceblue;
+    background-color: transparent;
+}
