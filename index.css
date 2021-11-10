@@ -89,9 +89,23 @@ position: relative;
       display: flex;
     height: 400px;
     background-color: blue;
+    justify-content: space-evenly;
 
 }
 #us{
     color: aliceblue;
     padding: 30px 50px;
+}
+.card{
+    border: 1px solid white;
+    background-color: white;
+    height: 250px;
+    float: right;
+    padding: 30px 30px;
+    border-radius: 7px;
+    margin-top: 70px;
+    width: 300px;
+    align-items: center;
+    
+    
 }
