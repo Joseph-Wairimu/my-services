@@ -7,6 +7,6 @@
 # By Joseph Kamore Wairimu.
 
 # description
-This project aim at designing a website for a burger restaurant to enable fast services for burger customers.
+This project aim at designing a website for customer service to enable fast services for customers.
 
 
