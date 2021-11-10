@@ -46,3 +46,15 @@ position: relative;
     color: aliceblue;
     background-color: transparent;
 }
+#pic{
+    height: 200px;
+    
+    float: right;
+    padding: 300 0px;
+}
+.info{
+    padding: 30px;
+}
+.about{
+    height: 200px;
+}
