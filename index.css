@@ -65,7 +65,11 @@ position: relative;
 }
 .affordable{
     background-image: url("images/Rectangle\ 11.png");
-    height: 300px;
+    height: 350px;
     background-size: cover;
     background-repeat: no-repeat;
 }
+.airline{
+    height: 400px;
+}
+.edit
