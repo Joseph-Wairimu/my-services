@@ -47,7 +47,7 @@ position: relative;
     background-color: transparent;
 }
 #pic{
-    height: 200px;
+    height: 300px;
     
     float: right;
     padding: 300 0px;
@@ -56,5 +56,16 @@ position: relative;
     padding: 30px;
 }
 .about{
-    height: 200px;
+    height: 300px;
+}
+.price{
+    text-align: center;
+    color: aliceblue;
+    padding: 70px;
+}
+.affordable{
+    background-image: url("images/Rectangle\ 11.png");
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
