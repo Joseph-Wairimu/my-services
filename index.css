@@ -86,11 +86,12 @@ position: relative;
     justify-content: center;
 }
 .contacts{
-
+      display: flex;
     height: 400px;
     background-color: blue;
 
 }
 #us{
     color: aliceblue;
+    padding: 30px 50px;
 }
