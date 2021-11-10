@@ -5,4 +5,25 @@ background-color: white;
 }
 .nav{
     display: flex;
+
+}
+.navv{
+margin: 15px;
+display: flex;
+position: relative;
+
+
+}
+.float{
+    float: right;
+    display: flex;
+    margin: 15px;
+
+}
+.one{
+    height: 50px;
+    
+}
+#button{
+    height: 20px;
 }
