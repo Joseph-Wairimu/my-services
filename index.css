@@ -72,4 +72,16 @@ position: relative;
 .airline{
     height: 400px;
 }
-.edit
+.edit{
+    height: 165px;
+}
+.air{
+    box-shadow: 5px 10px 1px 1px solid brown;
+    border-radius: 25px;
+    margin: 20px;
+    
+}
+.plane{
+    display: flex;
+    justify-content: center;
+}
