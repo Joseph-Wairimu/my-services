@@ -31,7 +31,7 @@ Incase of any queries or any clarification you can contact me via email or phone
 
 # MIT License
 
-### Copyright (c) 2021 Joseph Kamore Wairimu
+### Copyright (c) 2021 Esther Mureithi and   Joseph Kamore Wairimu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
